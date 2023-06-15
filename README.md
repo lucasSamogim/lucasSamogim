@@ -35,9 +35,11 @@
   <img align="center" height="30" width="40" alt="Lucas-git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
 </div>
   
-  <div>
-    <img align="right" width="250" alt="Lucas-gif" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
-  </div>
+  <br>
+  
+<div>
+  <img align="right" width="250" alt="Lucas-gif" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
+</div>
   
   ##
   
