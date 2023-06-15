@@ -38,7 +38,7 @@
   <br>
   
 <div>
-  <img align="right" width="250" alt="Lucas-gif" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
+  <img align="center" width="250" alt="Lucas-gif" src="https://media.giphy.com/media/3ornk57KwDXf81rjWM/giphy.gif">
 </div>
   
   ##
