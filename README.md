@@ -1,10 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/lucasSamogim/0a7bfd312535577d59e6378b0295150f/raw/4daa757085b8791f1359db5fef6dad2ad299b9bf/githubcard.svg"/>
-<h1 align="left">Hi, I'm Lucas Samogim Pereira</h1>
+<h1 align="left">Olá, eu sou Lucas Samogim Pereira</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lucasSamogim&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & focused on becoming a Full Stack web developer 
-
-- ▶️ I (not) regularly post content on [instagram.com/devjourney.br](https://www.instagram.com/devjourney.br/)
+- 🔥 Frontend Web Developer 
 
 <br>
 
@@ -16,26 +14,28 @@
 
 ## 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
+![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <br><br>
 
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=lucasSamogim&show_icons=true&theme=tokyonight" alt="lucasSamogim's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasSamogim&layout=compact&theme=tokyonight" alt="lucasSamogim's most languages"/>
 </p>
 
 <br><br>
 
-## Contact
+## Contato
 
 <div>
     <a href="https://www.linkedin.com/in/lucassamogimpereira/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
